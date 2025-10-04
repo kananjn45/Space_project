@@ -29,7 +29,7 @@ a{
     padding: 10px;
     transition: background-color 0.3s ease;
 }
-a:hover{
+a :hover{
     background-color: #051324 ;
     color: #FFFFFF;
     border-radius: 50%;
